@@ -1,7 +1,7 @@
 # Introduction
 📊Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs,🔥in-demand skills, and where high demand meets high salary in data analytics. 
 
-🔍 SQL queries? Check them out in the repository named : [project_sql folder](/project_sql)
+🔍 SQL queries? Check them out in the repository named : [sql_data_project folder](/sql_data_project)
 
 # Background
 # Tools I Used
@@ -11,7 +11,7 @@ Each query for this project aimed at investigating specific aspects of the data 
 Here's how I approached each question:
 
 ### Top Paying Data Analyst Jobs
-To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high opportunities in the field.
+To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high opportunities in the field. 📊🚀
 
 ```sql
 SELECT
