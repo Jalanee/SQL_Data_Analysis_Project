@@ -6,8 +6,7 @@
 # Background
 🚀 Driven by the desire to navigate the data analyst job market more effectively, this project was born out of the desire to identify the best-paid and most sought-after skills, simplifying the work of others to find the best jobs. 🌟
 
-The data comes from Luke Barousse’s [SQL Course](https://
-Lukebarousse.com/sql). It’s packed with information on jobs, salaries, locations, and essential skills. 📊
+The data comes from Luke Barousse’s **SQL Course**. It’s packed with information on jobs, salaries, locations, and essential skills. 📊
 
 
 ### The questions I wanted to answer through my SQL queries were:
